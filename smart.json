@@ -1,0 +1,10 @@
+{
+  "name": "spiderfork",
+  "description": "A more resilient spiderable package with better error reporting",
+  "homepage": "https://github.com/davedx/spiderfork",
+  "author": "Dave Clayton <davedx@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/davedx/spiderfork.git",
+  "packages": {
+  }
+}
